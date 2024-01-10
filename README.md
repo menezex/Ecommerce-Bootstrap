@@ -9,4 +9,5 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 --------------
 #### Projeto guiado pelo professor Ricardo Maroquio de como construir um design frontend de uma loja virtual.Foi criado o arquivo base.html para ter o header e o footer da página e em cima dele foi sendo criado os outros arquivos .html e suas páginas.O foco principal desse projeto foi praticar o uso do Bootstrap e tirar proveito de todas as suas funcionalidades…
-#### Esse projeto conta com mais de 20 páginas e estão toda interligadas para simular uma loja com produtos,carrinho de compra, confirmação de compra,cadastro de cliente, pedidos feitos, etc.
+#### Esse projeto conta com mais de 20 páginas e estão todas interligadas para simular uma loja com produtos,carrinho de compra, confirmação de compra,cadastro de cliente, pedidos feitos, etc.
+
